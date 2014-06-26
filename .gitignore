@@ -6,6 +6,7 @@
 *.out
 *.pid
 *.gz
+*.swp
 .idea/*
 *.DS_Store
 lib-cov
