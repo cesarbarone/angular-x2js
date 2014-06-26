@@ -1,0 +1,25 @@
+{
+	"name": "angular-x2js",
+	"version": "1.0.0",
+	"authors": [
+		"cesar.bmcosta@gmail.com"
+	],
+	"description": "A simple wrapper of x2js library",
+	"keywords": [
+		"angular",
+		"x2js"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"angular":"~1.2.0"
+	},
+	"devDependencies": {
+	}
+}
