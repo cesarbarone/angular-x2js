@@ -30,7 +30,7 @@
 
 ### You can use all functions available by x2js:
 
-[a link]([https://code.google.com/p/x2js/])
+https://code.google.com/p/x2js/
 
 ## TODO
 
