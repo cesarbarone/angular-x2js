@@ -82,8 +82,8 @@ module.exports = function(grunt) {
 				},
 				build: {
 					files:  {},
-					src:    'x2js.js',
-					dest:   'x2js.min.js'
+					src:    'src/x2js.js',
+					dest:   'dist/x2js.min.js'
 				}
 			},
 			karma: {
