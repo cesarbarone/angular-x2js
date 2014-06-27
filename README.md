@@ -1,5 +1,5 @@
-[![Build Status](https://secure.travis-ci.org/username/reponame.png?branch=master)](https://travis-ci.org/cesarbarone/angular-x2js)
-# A simple wrapper of x2js library
+# angular-x2js &nbsp;[![Build Status](https://travis-ci.org/cesarbarone/angular-x2js.png?branch=master)](https://travis-ci.org/cesarbarone/angular-x2js)
+## A simple wrapper of x2js library
 
 [TODO - brief summary]
 
