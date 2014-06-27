@@ -1,6 +1,6 @@
 {
-  "name": "angular-x2js-demo",
-  "version": "0.0.0",
+  "name": "angular-x2js",
+  "version": "0.0.1",
   "authors": [
     "cesar.bmcosta@gmail.com"
   ],
@@ -16,9 +16,6 @@
   ],
   "dependencies": {
     "angular": "~1.2.0",
-    "angular-sanitize": "~1.2.0",
-    "angular-route": "~1.2.0",
-    "angular-touch": "~1.2.0",
     "x2js": "*"
   },
   "devDependencies": {
