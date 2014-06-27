@@ -8,6 +8,6 @@
 'use strict';
 
 angular.module('angular-x2js', [])
-  .factory('X2js', [ function () {
-
+  .factory('x2js', [ function () {
+    return new X2JS();
 }]);
