@@ -52,3 +52,8 @@ https://code.google.com/p/x2js/
 
 ### Support configs
 
+## License
+
+MIT.
+
+Please see the LICENSE file.
