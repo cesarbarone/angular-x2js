@@ -10,11 +10,7 @@ describe('angular-x2js', function() {
     x2js = _x2js_;
   }));
 
-  it('smokes like a rockstart', function(){
-    expect(true).toBeTruthy();
-  });
-  
-  it('smokes like a rockstart', function(){
+  it('inject service instanceof X2JS library', function(){
     expect(x2js instanceof X2JS).toBeTruthy();
   });
 
