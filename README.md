@@ -28,7 +28,7 @@
 
 ## Usage
 
-### You can use all functions available by x2js:
+### You can use all functions available in x2js:
 
 x2js.xml2json - Convert XML specified as DOM Object to JSON
 
