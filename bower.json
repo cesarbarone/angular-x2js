@@ -20,6 +20,6 @@
     "x2js": "*"
   },
   "devDependencies": {
-    "angular-mocks": "~1.4.4",
+    "angular-mocks": "~1.4.4"
   }
 }
