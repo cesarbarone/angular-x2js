@@ -16,7 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.3.0",
+    "angular": "1.x",
     "x2js": "*"
   },
   "devDependencies": {
